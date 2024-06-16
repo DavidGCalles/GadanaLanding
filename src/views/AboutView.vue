@@ -4,7 +4,7 @@
       <h1 class="green">Nuestra Misión</h1>
       <p>Nuestra misión es ofrecer soluciones tecnológicas innovadoras y personalizadas que impulsen la eficiencia,
         mejoren la productividad y desbloqueen nuevas oportunidades de crecimiento. Creemos en el poder de la tecnología
-        para transformar negocios y estamos comprometidos a guiarlo en cada paso de su viaje digital.</p>
+        para transformar negocios y estamos comprometidos a guiarlo en cada paso de su viaje digital.</p> Prueba
     </div>
     <div class="item"><h1 class="green">Qué hacemos</h1></div>
     <div class="wrapper">
