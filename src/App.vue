@@ -13,6 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/contact">Contáctanos</RouterLink>
       </nav>
       <nav>
       <a href="https://x.com" target="_blank" rel="noopener"><img alt = "tw-logo" class="tw-logo" src="@/assets/logo-tw.png" width="32" height="32"></a>
