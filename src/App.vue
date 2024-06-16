@@ -14,6 +14,12 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
+      <nav>
+      <a href="https://x.com" target="_blank" rel="noopener"><img alt = "tw-logo" class="tw-logo" src="@/assets/logo-tw.png" width="32" height="32"></a>
+      <a href="https://wa.me/0034692302360" target="_blank" rel="noopener"><img alt = "whas-logo" class="whas-logo" src="@/assets/logo-whas.png" width="32" height="32"></a>
+      <a href="https://www.gmail.com" target="_blank" rel="noopener"><img alt = "gmail-logo" class="whas-logo" src="@/assets/logo-gmail.png" width="32" height="32"></a>
+      
+      </nav>
     </div>
   </header>
 
@@ -36,6 +42,10 @@ nav {
   font-size: 12px;
   text-align: center;
   margin-top: 2rem;
+}
+
+img {
+  margin-top: 0.35rem;
 }
 
 nav a.router-link-exact-active {
