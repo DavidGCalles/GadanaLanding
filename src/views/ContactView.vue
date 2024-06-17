@@ -46,10 +46,6 @@ const contactMethod = ref('');
 </template>
 
 <style>
-.section {
-  border: 1px solid red;
-  padding: 2rem;
-}
 
 .section>div {
   display: inline;
